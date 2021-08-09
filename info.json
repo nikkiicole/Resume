@@ -1,0 +1,23 @@
+{
+  "name": "Nikki Gilpin",
+  "website": "https://www.nikkigilpin.com/",
+  "linkedin": "https://www.linkedin.com/in/nikki-gilpin-641b9755/",
+  "github": "nikkiicole",
+  "email": "nikki.gilpin@generalassemb.ly",
+  "resume": "https://drive.google.com/file/d/1-Tqk0y4pZmmaq5G6_rrCINjSEpAt1O-r/view",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Ruby", 
+      "Ruby on Rails"
+  ],
+  "otherSkills": [
+      "Reading",
+      "Writing",
+      "Cooking"
+  ]
+}
